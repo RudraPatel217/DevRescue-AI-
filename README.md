@@ -1,10 +1,6 @@
 # DevRescue AI — Autonomous Bug Investigation & Repair Console
 
 <p align="center">
-  <img src="src/assets/hero.png" alt="DevRescue AI Hero Banner" width="850" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);" />
-</p>
-
-<p align="center">
   <strong>"Broken code, rescued in seconds."</strong><br />
   An autonomous cyber-console & multi-agent engineering platform for continuous software reliability.
 </p>
